@@ -1,0 +1,13 @@
+# Bỏ qua tất cả thư mục môi trường ảo Python
+venv/
+env/
+myenv/
+
+# Bỏ qua các file chứa cấu hình nhạy cảm khác (nếu có)
+*.key
+*.pem
+*.json
+
+# Bỏ qua các file log và cache tạm thời
+*.log
+*.cache
