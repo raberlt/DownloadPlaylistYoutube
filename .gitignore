@@ -11,3 +11,4 @@ myenv/
 # Bỏ qua các file log và cache tạm thời
 *.log
 *.cache
+.DS_Store
